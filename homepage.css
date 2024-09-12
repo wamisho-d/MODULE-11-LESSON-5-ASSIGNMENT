@@ -1,0 +1,23 @@
+/* src/components/HomePage.css */
+
+.homepage-container {
+    background-color: #f8f9fa; /* Light background color */
+    color: #343a40;            /* Dark text for contrast */
+    min-height: 100vh;           /* Full viewport height */
+    padding: 2rem;
+ }
+ 
+ .shop-now-btn {
+     border-radius: 50px;       /* Rounded button for a modern look */
+ }
+ 
+ .welcome-image {
+    max-width: 100%;
+    height: auto;               /* Ensure the image maintains aspect ratio */ 
+ }
+ 
+ .shadow-lg {
+     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* Custom shadow */
+ }
+ 
+ 
